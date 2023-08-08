@@ -1,4 +1,9 @@
 print("Hello");
-print("My name is Jishnu Biswas")
 
+name = "Jishnu"
+surname = "Biswas"
+age = 23
+print(name)
+print(surname)
+print(age)
 
