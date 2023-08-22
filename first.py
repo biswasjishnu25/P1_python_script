@@ -1,4 +1,8 @@
 # print("jishnu")
 name = "Jishnu"
 surname ="Biswas"
-print("My first name is {} and my surname is {}".format(name,surname))q
+print("My first name is {} and my surname is {}".format(name,surname))
+
+age = 23
+print(type(age))
+print(type(surname))
