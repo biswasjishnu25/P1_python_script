@@ -14,3 +14,8 @@ print(type(surname))
 
 age = int(age)
 print(type(age))
+
+
+true_boolean = True
+false_boolean= False
+print(type(true_boolean))
