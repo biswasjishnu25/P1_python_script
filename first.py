@@ -6,3 +6,11 @@ print("My first name is {} and my surname is {}".format(name,surname))
 age = 23
 print(type(age))
 print(type(surname))
+
+age = "23"
+print(type(age))
+print(type(surname))
+# converting string into integer
+
+age = int(age)
+print(type(age))
